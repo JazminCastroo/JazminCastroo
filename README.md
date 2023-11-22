@@ -1,16 +1,17 @@
-### Hi there 👋
+# ~ Hi! I'm *Jazmin Castro :)* ~
 
-<!--
-**JazminCastroo/JazminCastroo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ~ *Front-End Programmer* ~
 
-Here are some ideas to get you started:
+I'm a *17 years old* ***front-end*** and a still learning ***Back-End*** web designer. I've worked with various projects from **secondary school**, and I'm very obssesed with the good-looking webs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My **primary** programming languages are:
+1. HTML 🟠
+2. CSS 🔵
+
+I'm **actually learning** the next Back-End languages:
+1. PHP 🟣
+3. MySQL 🐬
+4. Java ☕
+
+## ~ *Contact* ~
+Gmail: jazmincastro155@gmail.com
