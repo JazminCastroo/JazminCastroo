@@ -1,7 +1,6 @@
-# ~ Hi! ~
-I'm *Jazmin Castro :)* 
+# Hi! I'm *Jazmin Castro :)* 
 
-## *Front-End Programmer* 
+# *Front-End Programmer* 
 
 I'm a *17 years old* ***front-end*** and a still learning ***Back-End*** web designer. I love web security and i've worked with various projects from secondary school, and I'm very obssesed with the cute and good-looking webs.
 
@@ -15,8 +14,9 @@ Back-End languages i am learning:
 1. PHP 🟣
 2. Java ☕
 
-   Remember that if you were not ready you would not have the opportunity.
-
-
-## ~ *Contact* ~
+## *Contact*
 Gmail: jazmincastro155@gmail.com
+
+
+
+🌸🪻Remember that if you were not ready you would not have the opportunity.🪻🌸
