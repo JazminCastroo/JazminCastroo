@@ -1,4 +1,4 @@
-# Hi! I'm *Jazmin Castro :)* 
+# Hi! I'm Jazmin Castro :)
 
 # *Front-End Programmer* 
 
